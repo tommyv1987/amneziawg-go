@@ -1,8 +1,6 @@
 module github.com/tommyv1987/amneziawg-go
 
-go 1.23.1
-
-toolchain go1.23.3
+go 1.23.3
 
 require (
 	github.com/tevino/abool/v2 v2.1.0
