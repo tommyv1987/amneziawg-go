@@ -1,8 +1,11 @@
-module github.com/amnezia-vpn/amneziawg-go
+module github.com/tommyv1987/amneziawg-go
 
-go 1.24
+go 1.23.1
+
+toolchain go1.23.3
 
 require (
+	github.com/amnezia-vpn/amneziawg-go v0.2.12
 	github.com/tevino/abool/v2 v2.1.0
 	golang.org/x/crypto v0.36.0
 	golang.org/x/net v0.37.0

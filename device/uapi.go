@@ -18,7 +18,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/amnezia-vpn/amneziawg-go/ipc"
+	"github.com/tommyv1987/amneziawg-go/ipc"
 )
 
 type IPCError struct {
