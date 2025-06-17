@@ -17,9 +17,9 @@ import (
 	"golang.org/x/net/icmp"
 	"golang.org/x/net/ipv4"
 
-	"github.com/tommyv1987/amneziawg-go/conn"
-	"github.com/tommyv1987/amneziawg-go/device"
-	"github.com/tommyv1987/amneziawg-go/tun/netstack"
+	"github.com/nymtech/amneziawg-go/conn"
+	"github.com/nymtech/amneziawg-go/device"
+	"github.com/nymtech/amneziawg-go/tun/netstack"
 )
 
 func main() {

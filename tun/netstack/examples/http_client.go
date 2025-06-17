@@ -13,9 +13,9 @@ import (
 	"net/http"
 	"net/netip"
 
-	"github.com/tommyv1987/amneziawg-go/conn"
-	"github.com/tommyv1987/amneziawg-go/device"
-	"github.com/tommyv1987/amneziawg-go/tun/netstack"
+	"github.com/nymtech/amneziawg-go/conn"
+	"github.com/nymtech/amneziawg-go/device"
+	"github.com/nymtech/amneziawg-go/tun/netstack"
 )
 
 func main() {

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/tommyv1987/amneziawg-go/conn/bindtest"
-	"github.com/tommyv1987/amneziawg-go/tun/tuntest"
+	"github.com/nymtech/amneziawg-go/conn/bindtest"
+	"github.com/nymtech/amneziawg-go/tun/tuntest"
 )
 
 func setUpJunkCreator(t *testing.T) (junkCreator, error) {

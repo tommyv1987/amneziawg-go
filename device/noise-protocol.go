@@ -15,7 +15,7 @@ import (
 	"golang.org/x/crypto/chacha20poly1305"
 	"golang.org/x/crypto/poly1305"
 
-	"github.com/tommyv1987/amneziawg-go/tai64n"
+	"github.com/nymtech/amneziawg-go/tai64n"
 )
 
 type handshakeState int
